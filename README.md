@@ -87,7 +87,6 @@ I value:
 **Founder & Engineering — ELECTRON VISION**
 
 - GitHub: [@yasserdaher](https://github.com/yasserdaher)
-- Organization: [ELECTRON VISION](https://github.com/ELECTRON-VISION)
 
 For technical collaboration, engineering discussions, and professional opportunities, feel free to connect through GitHub.
 
